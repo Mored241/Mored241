@@ -36,8 +36,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="32" height="32" alt="SQLite SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL SVG"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
+
 </p>
 <P> . </P>
 </div>
@@ -58,6 +57,11 @@ Here are some of my skills:
 - 😄 Pronouns: ...
 </details>
 
+<details close> 
+  <summary><h2>Other tools I use</h2> ✨</summary>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
+</details>
 
 <h1 align="center">Activity and Stats</h1>
 <h3 align="center" >All coding projects are built from the group up, from planning and designing all the way to solving real-life problems with code.</h3>
