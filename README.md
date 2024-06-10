@@ -19,6 +19,7 @@
 
  <h2 align="center" >🤓 My fav Dev Tools 😎</h2>
  <div>
+ <p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="Css3 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript SVG"/>
@@ -37,6 +38,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
+</p>
+<P> . </P>
 </div>
 
 <details open> 
