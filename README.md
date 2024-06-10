@@ -13,14 +13,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=A+passionate+Junior+Full-Stack+Developer;3%2B+Years+of+coding++experience;Experienced+in+Web+Design;Practice+makes+better%2C+keep+learning." alt="Typing SVG" /></a>
 </p>
 
-<p align="" ></p>
-<p align="center" >⛧°。 ⋆༺「 ✦ Web Dev ✦ 」༻⋆。 °⛧</p>
-
 
 
 
 
  <h2 align="center" >🤓 My fav Dev Tools 😎</h2>
+ <div>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="Css3 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript SVG"/>
@@ -39,13 +37,12 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
+</div>
 
-<br>
-<br>
 <details open> 
   <summary><h2>My Skills</h2> ✨</summary>
 
-In this constant evolving tech-world, it's is importante to stay `Up to Date`, so keep learning and discovering new things is vital..
+In this constantly evolving tech world, it’s important to stay *up-to-date*. Keep learning and discovering new things—it’s vital.
 
 Here are some of my skills:
 - `⚡ Software Development (Web/Mobile/Desktop)`
@@ -58,12 +55,12 @@ Here are some of my skills:
 - 😄 Pronouns: ...
 </details>
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-</details>
 
-<h1 align="center">Hi 👋, I'm Mored 241</h1>
+<h1 align="center">Activity and Stats</h1>
 <h3 align="center" >All coding projects are built from the group up, from planning and designing all the way to solving real-life problems with code.</h3>
+
+<details open> 
+  <summary><h2>Stats 📑 </h2></summary>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mored241&label=Profile%20views&color=0e75b6&style=flat" alt="mored241" /> </p>
@@ -81,4 +78,9 @@ Here are some of my skills:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mored241&show_icons=true&locale=en" alt="mored241" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mored241&" alt="mored241" /></p>
+</details>
+
+<details close> 
+  <summary><h2>Activity 💻 </h2></summary>
+</details>
 
