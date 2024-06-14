@@ -1,4 +1,4 @@
-<h1 align="center" >𓇼 Hi, I'm Mored 241 𓂀</h1>
+<p align="center"><img radius="5px" src="https://pbs.twimg.com/profile_banners/4104668955/1551739340/600x200" /></p>
 
 <div align="center" >
   <p>
@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=A+passionate+Junior+Full-Stack+Developer;3%2B+Years+of+coding++experience;Experienced+in+Web+Design;Practice+makes+better%2C+keep+learning." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=1000&color=C80036&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=A+passionate+Junior+Full-Stack+Developer;3%2B+Years+of+coding++experience;Experienced+in+Web+Design;Practice+makes+better%2C+keep+learning." alt="Typing SVG" /></a>
 </p>
 
 
@@ -45,16 +45,30 @@
   <summary><h2>My Skills</h2> ✨</summary>
 
 In this constantly evolving tech world, it’s important to stay *up-to-date*. Keep learning and discovering new things—it’s vital.
+<p style="display:flex">
 
+<table>
+  <tr>
+    <td>
+      <a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q0YmpkMjl1MTJnMjRzcW0xYnlsanhxeWJienlyMmFoY2QydmFscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="300"  display="inline"/></a>
+    </td>
+    <td>
+      <p  >
+        
 Here are some of my skills:
 - `⚡ Software Development (Web/Mobile/Desktop)`
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- `📫 Web Design`
+- `⚡ Computer Networking`
+- `👯 Version Control`
+- `💬 Graphic Design`
+- `🤔 Mareting Digital`
+- `🖱️ Internet & Web tools`
+</p>
+    </td>
+  </tr>
+</table>
+
+</p>
 </details>
 
 <details close> 
@@ -63,7 +77,12 @@ Here are some of my skills:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
 </details>
 
-<h1 align="center">Activity and Stats</h1>
+
+
+
+
+
+<h1 align="center">Activity and Stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU1YTBhdDl2YjJ0c2d4cWEwNG9jMXRqNTlocHpoMXRxYWdzdmI3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="28" height="26"/></h1>
 <h3 align="center" >All coding projects are built from the group up, from planning and designing all the way to solving real-life problems with code.</h3>
 
 <details open> 
@@ -85,6 +104,8 @@ Here are some of my skills:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mored241&show_icons=true&locale=en" alt="mored241" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mored241&" alt="mored241" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mored241)](https://github.com/mored241/github-readme-stats)
 </details>
 
 <details close> 
