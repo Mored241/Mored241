@@ -61,7 +61,7 @@ Here are some of my skills:
 - `⚡ Computer Networking`
 - `👯 Version Control`
 - `💬 Graphic Design`
-- `🤔 Mareting Digital`
+- `🤔 Digital Marketing`
 - `🖱️ Internet & Web tools`
 </p>
     </td>
@@ -73,15 +73,21 @@ Here are some of my skills:
 
 <details close> 
   <summary><h2>Other tools I use</h2> ✨</summary>
+  <p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="32" height="32" alt="Firebqse SVG"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="32" height="32" alt="Firebqse SVG"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="32" height="32" alt="Firebqse SVG"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="32" height="32" alt="Firebqse SVG"/>
+  </p>
 </details>
 
 
 
 
 
-
+<div>
 <h1 align="center">Activity and Stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU1YTBhdDl2YjJ0c2d4cWEwNG9jMXRqNTlocHpoMXRxYWdzdmI3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="28" height="26"/></h1>
 <h3 align="center" >All coding projects are built from the group up, from planning and designing all the way to solving real-life problems with code.</h3>
 
@@ -111,4 +117,5 @@ Here are some of my skills:
 <details close> 
   <summary><h2>Activity 💻 </h2></summary>
 </details>
+</div>
 
