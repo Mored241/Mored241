@@ -102,20 +102,41 @@ Here are some of my skills:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mored241&show_icons=true&locale=en&layout=compact" alt="mored241" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mored241&show_icons=true&locale=en" alt="mored241" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mored241&" alt="mored241" /></p>
+  <p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mored241&theme=calm&hide_border=true&border_radius=6&background=1A1919" alt="GitHub Streak" /></a>
+    <p>🔥 The best is coming</p>
+  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mored241)](https://github.com/mored241/github-readme-stats)
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mored241&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mored241&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mored241&bg_color=1a1919&color=dbbf33&line=cc0000&point=346f43&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 </details>
 
 <details close> 
   <summary><h2>Activity 💻 </h2></summary>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  </p>
+
 </details>
 </div>
 
