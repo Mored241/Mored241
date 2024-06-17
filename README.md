@@ -95,11 +95,10 @@ Here are some of my skills:
   <summary><h2>Stats 📑 </h2></summary>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mored241&label=Profile%20views&color=0e75b6&style=flat" alt="mored241" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mored241&label=Profile%20views&color=C80036&style=flat" alt="mored241" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mored241" alt="mored241" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mored241&no-bg=true&theme=dark_lover" alt="mored241" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -115,8 +114,8 @@ Here are some of my skills:
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mored241&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036" height="120px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mored241&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036&hide=Jupyter%20Notebook,Roff" height="120px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mored241&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036" height="180px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mored241&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036&hide=Jupyter%20Notebook,Roff" height="180px"/></a>
   </p>
   <br>
 
