@@ -115,10 +115,10 @@ Here are some of my skills:
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mored241&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036" height="190px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mored241&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mored241&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036" height="120px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mored241's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mored241&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1A1919&title_color=DBBF33&icon_color=C80036&hide=Jupyter%20Notebook,Roff" height="120px"/></a>
   </p>
-  <br/>
+  <br>
 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -131,12 +131,7 @@ Here are some of my skills:
 <details close> 
   <summary><h2>Activity 💻 </h2></summary>
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
   </p>
 
 </details>
