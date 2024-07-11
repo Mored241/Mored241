@@ -4,8 +4,7 @@
   <p>
     <a href="https://linkedin.com/in/moredsima" target="_blank"><img src="https://img.shields.io/badge/Mored%20Sima%20-%20blue?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto&labelColor=blue&color=blue&cacheSeconds=3600" /> </a>
     <a href="https://x.com/Momodo241" target="_blank"><img src="https://img.shields.io/twitter/follow/momodo241.svg?style=social" /> </a>
-    <a href="https://linkedin.com/in/moredsima" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Mored%20241%20-%20black?style=flat-square&logo=devdotto&logoColor=white&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600">
- </a>
+    
   </p>
 </div>
 
@@ -41,8 +40,10 @@
 <P> . </P>
 </div>
 
+#
+
 <details open> 
-  <summary><h2>My Skills</h2> ✨</summary>
+  <summary>My Skills ✨</summary>
 
 In this constantly evolving tech world, it’s important to stay *up-to-date*. Keep learning and discovering new things—it’s vital.
 <p style="display:flex">
@@ -72,7 +73,7 @@ Here are some of my skills:
 </details>
 
 <details close> 
-  <summary><h2>Other tools I use</h2> ✨</summary>
+  <summary>Other tools I use ✨</summary>
   <p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
@@ -83,8 +84,7 @@ Here are some of my skills:
   </p>
 </details>
 
-
-
+##
 
 
 <div>
@@ -92,7 +92,7 @@ Here are some of my skills:
 <h3 align="center" >All coding projects are built from the group up, from planning and designing all the way to solving real-life problems with code.</h3>
 
 <details open> 
-  <summary><h2>Stats 📑 </h2></summary>
+  <summary>Stats 📑</summary>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mored241&label=Profile%20views&color=C80036&style=flat" alt="mored241" /> </p>
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mored241&no-bg=true&theme=dark_lover" alt="mored241" /></a> </p>
@@ -124,7 +124,7 @@ Here are some of my skills:
 </details>
 
 <details close> 
-  <summary><h2>Activity 💻 </h2></summary>
+  <summary>Activity 💻 </summary>
   
   <p>
     Come later, I'm making it . . . 💪🏽👨‍💻✨
