@@ -2,14 +2,14 @@
 
 <div align="center" >
   <p>
-    <a href="https://linkedin.com/in/moredsima" target="_blank"><img src="https://img.shields.io/badge/Mored%20Sima%20-%20blue?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto&labelColor=blue&color=blue&cacheSeconds=3600" /> </a>
+    <p></p>
     <a href="https://x.com/Momodo241" target="_blank"><img src="https://img.shields.io/twitter/follow/momodo241.svg?style=social" /> </a>
     
   </p>
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=1000&color=C80036&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=A+passionate+Junior+Full-Stack+Developer;3%2B+Years+of+coding++experience;Experienced+in+Web+Design;Practice+makes+better%2C+keep+learning." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=1000&color=484848&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=A+passionate+Junior+Full-Stack+Developer;3%2B+Years+of+coding++experience;Experienced+in+Web+Design;Practice+makes+better%2C+keep+learning" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 
  <h2 align="center" >🤓 My fav Dev Tools 😎</h2>
  <div>
- <p>
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="Css3 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript SVG"/>
@@ -36,17 +36,15 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="32" height="32" alt="SQLite SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL SVG"/>
 
-</p>
-<P> . </P>
 </div>
 
-#
+###
 
 <details open> 
   <summary>My Skills ✨</summary>
 
 In this constantly evolving tech world, it’s important to stay *up-to-date*. Keep learning and discovering new things—it’s vital.
-<p style="display:flex">
+<div style="display:flex">
 
 <table>
   <tr>
@@ -74,14 +72,14 @@ Here are some of my skills:
 
 <details close> 
   <summary>Other tools I use ✨</summary>
-  <p>
+  <div>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="32" height="32" alt="Firebqse SVG"/>
-  </p>
+  </div>
 </details>
 
 ##
