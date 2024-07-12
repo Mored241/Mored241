@@ -49,10 +49,13 @@ In this constantly evolving tech world, it’s important to stay *up-to-date*. K
 <table>
   <tr>
     <td>
-      <a><img src="https://th.bing.com/th/id/R.b660d442d3d765ba726e005dd880387a?rik=5FPDemOzj%2bcAIQ&pid=ImgRaw&r=0" width="300"  display="inline"/></a>
-    </td>
-    <td>
-      <p  >
+      
+  <img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" width="300"  display="inline"/>
+      
+  </td>
+    
+  <td>
+      <p >
         
 Here are some of my skills:
 - `⚡ Software Development (Web/Mobile/Desktop)`
