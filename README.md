@@ -15,7 +15,7 @@
 
 
  <h2 align="center" >🤓 My fav Dev Tools 😎</h2>
- <div dsplay="block">
+ <div display="block">
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="Css3 SVG"/>
