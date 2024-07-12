@@ -2,9 +2,7 @@
 
 <div align="center" >
   <p>
-    <p></p>
     <a href="https://x.com/Momodo241" target="_blank"><img src="https://img.shields.io/twitter/follow/momodo241.svg?style=social" /> </a>
-    
   </p>
 </div>
 
@@ -17,7 +15,7 @@
 
 
  <h2 align="center" >🤓 My fav Dev Tools 😎</h2>
- <div>
+ <div dsplay="block">
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="Css3 SVG"/>
@@ -40,7 +38,7 @@
 
 ###
 
-<details open> 
+<details open style="display: block;" > 
   <summary>My Skills ✨</summary>
 
 In this constantly evolving tech world, it’s important to stay *up-to-date*. Keep learning and discovering new things—it’s vital.
@@ -69,17 +67,17 @@ Here are some of my skills:
 
 </p>
 </details>
-
+<p><a>.</a> </p>
 <details close> 
   <summary>Other tools I use ✨</summary>
-  <div>
+  <p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="32" height="32" alt="WordPress SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="32" height="32" alt="Firebqse SVG"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="32" height="32" alt="Firebqse SVG"/>
-  </div>
+  </p>
 </details>
 
 ##
