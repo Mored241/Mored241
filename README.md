@@ -37,6 +37,8 @@
 </div>
 
 ###
+<p>00</p>
+<br/>
 
 <details open style="display: block;" > 
   <summary>My Skills ✨</summary>
@@ -67,7 +69,7 @@ Here are some of my skills:
 
 </p>
 </details>
-<p><a>.</a> </p>
+<br/>
 <details close> 
   <summary>Other tools I use ✨</summary>
   <p>
