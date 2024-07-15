@@ -2,7 +2,7 @@
 
 <div align="center" >
   <p>
-    <a href="https://x.com/Momodo241" target="_blank"><img src="https://img.shields.io/twitter/follow/momodo241.svg?style=social" /> </a>
+    <a href="https://x.com/Mored241" target="_blank"><img src="https://img.shields.io/twitter/follow/mored241.svg?style=social" /> </a>
   </p>
 </div>
 
